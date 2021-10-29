@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace DAY_23_AddressBook
 {
     class Contacts
@@ -12,7 +13,11 @@ namespace DAY_23_AddressBook
         public string city { get; set; }
         public string state { get; set; }
         public string ZipCode { get; set; }
+<<<<<<< HEAD
         public string PhoneNunmber { get; set;}
+=======
+        public string PhoneNunmber { get; set; }
+>>>>>>> UC_6RefactorToAddMultipleAddressBook
         public string eMail { get; set;}
     }
 }
