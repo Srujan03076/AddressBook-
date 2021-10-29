@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace AddressBook
+namespace DAY_23_AddressBook
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Address Book");
+            Console.WriteLine("Welcome to Address book program");
         }
     }
 }
