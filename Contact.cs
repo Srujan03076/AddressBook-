@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace DAY_23_AddressBook
 {
     class Contacts
@@ -13,6 +14,6 @@ namespace DAY_23_AddressBook
         public string state { get; set; }
         public string ZipCode { get; set; }
         public string PhoneNunmber { get; set; }
-        public string eMail { get; set; }
+        public string eMail { get; set;}
     }
 }
